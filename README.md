@@ -1,16 +1,54 @@
-## Hi there 👋
+# Welcome to my github account 👋
 
-<!--
-**HAJJINIHamza/HAJJINIHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Me in few words 🙋‍♂️
+I am an AI Engineer with **2 years of experience** in **applied AI and Data Science**, where I analyzed data, built data pipelines, developed machine and deep learning systems, AI Agents and Generative AI applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I helped companies automate their processes, reduce processing time and manual effort, optimize their systems, lower operational expenses, and reduce customer churn.
+
+### Professional Experience 🧑‍💼💼📈
+
+#### AI Engineer  
+``07ZR.com``
+
+``03/2025 -> present (6 months)``
+
+
+#### Machine Learning Engineer
+`INWI`
+
+``03/2024 -> 03/2025 (1 year)``
+
+#### Data Scientist intern 
+`Ascent Capital Partners`
+
+``03/2023 -> 08/2023 (6 months)``
+
+### My studies 👨🏼‍🎓📚💡
+
+- Engineer's degree from Ecole Centrale Casablanca, 2023
+
+    ``Bac+5``
+
+    `Artificial Inteligence and Data Science`
+
+- Two years of intensive courses in Mathematics and Physics 2020
+
+    ``BAC+2``
+
+    `Mathematics, Physics, Philosophy and Programmation (Python and SQL)`
+
+### Projects I worked on 📊🛠️📈
+
+#### - AI Agent for Invoces and VAT processing. 
+#### - End to End RAG application for customer support deployed on AWS.
+#### - End to End Machine Learning system for churn prediction ([GitHub](https://github.com/HAJJINIHamza/Telecommunication-b2c-post-paid-mobile-churn)) 
+#### - Language and Emotion detection system 
+#### - End to End Machine Learning system for companies classification and valuation on the market.
+
+### My personal and open source projects 🧑🏻‍💻🤖🚀
+
+Please check my GitHub repositories : [Github](https://github.com/HAJJINIHamza/)
+
+
