@@ -9,21 +9,24 @@ I helped companies automate their processes, reduce processing time and manual e
 
 ### Professional Experience 🧑‍💼💼📈
 
-#### AI Engineer  
-``07ZR.com``
+- **AI Engineer**
 
-``03/2025 -> present (6 months)``
+    ``07ZR.com``
+
+    ``03/2025 -> present (6 months)``
 
 
-#### Machine Learning Engineer
-`INWI`
+- **Machine Learning Engineer**
 
-``03/2024 -> 03/2025 (1 year)``
+    `INWI`
 
-#### Data Scientist intern 
-`Ascent Capital Partners`
+    ``03/2024 -> 03/2025 (1 year)``
 
-``03/2023 -> 08/2023 (6 months)``
+- **Data Scientist intern**
+
+    `Ascent Capital Partners`
+
+    ``03/2023 -> 08/2023 (6 months)``
 
 ### My studies 👨🏼‍🎓📚💡
 
