@@ -2,12 +2,14 @@
 
 
 ### Me in few words 🙋‍♂️
+---
 I am an AI Engineer with **2 years of experience** in **applied AI and Data Science**, where I analyzed data, built data pipelines, developed machine and deep learning systems, AI Agents and Generative AI applications. 
 
 
 I helped companies automate their processes, reduce processing time and manual effort, optimize their systems, lower operational expenses, and reduce customer churn.
 
 ### Professional Experience 🧑‍💼💼📈
+---
 
 - **AI Engineer**
 
@@ -29,6 +31,7 @@ I helped companies automate their processes, reduce processing time and manual e
     ``03/2023 -> 08/2023 (6 months)``
 
 ### My studies 👨🏼‍🎓📚💡
+---
 
 - Engineer's degree from Ecole Centrale Casablanca, 2023
 
@@ -43,6 +46,7 @@ I helped companies automate their processes, reduce processing time and manual e
     `Mathematics, Physics, Philosophy and Programmation (Python and SQL)`
 
 ### Projects I worked on 📊🛠️📈
+---
 
 #### - AI Agent for Invoces and VAT processing. 
 #### - End to End RAG application for customer support deployed on AWS.
@@ -51,10 +55,12 @@ I helped companies automate their processes, reduce processing time and manual e
 #### - End to End Machine Learning system for companies classification and valuation on the market.
 
 ### My personal and open source projects 🧑🏻‍💻🤖🚀
+---
 
 Please check my GitHub repositories : [Github](https://github.com/HAJJINIHamza/)
 
 ### How to contact me ?
+---
 - ✉️ My email : hajjinihamza2@gmail.com
 - 🌐 My LinkedIn profile : [LinkedIn](http://www.linkedin.com/in/hamza-hajjini)
 
