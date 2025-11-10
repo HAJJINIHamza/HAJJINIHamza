@@ -54,4 +54,8 @@ I helped companies automate their processes, reduce processing time and manual e
 
 Please check my GitHub repositories : [Github](https://github.com/HAJJINIHamza/)
 
+### How to contact me ?
+- ✉️ My email : hajjinihamza2@gmail.com
+- 🌐 My LinkedIn profile : [LinkedIn](http://www.linkedin.com/in/hamza-hajjini)
+
 
