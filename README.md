@@ -3,13 +3,19 @@
 
 ### Me in few words 🙋‍♂️
 ---
-I am an AI Engineer with **2 years of experience** in **applied AI and Data Science**, where I analyzed data, built data pipelines, developed machine and deep learning systems, AI Agents and Generative AI applications. 
+I am an AI Engineer with **+2 years of experience** in **applied AI and Data Science**. I built data pipelines, developed machine and deep learning systems, AI Agents and Generative AI applications. 
 
 
 I helped companies automate their processes, reduce processing time and manual effort, optimize their systems, lower operational expenses, and reduce customer churn.
 
 ### Professional Experience 🧑‍💼💼📈
 ---
+- **AI Researcher**
+
+    ``SEOUl NATIONAL UNIVERSITY & LLM CORE AI, INC.``
+
+    ``05/2026 -> present (6 months)``
+  
 
 - **AI Engineer**
 
@@ -24,7 +30,7 @@ I helped companies automate their processes, reduce processing time and manual e
 
     ``03/2024 -> 03/2025 (1 year)``
 
-- **Data Scientist intern**
+- **Data Scientist**
 
     `Ascent Capital Partners`
 
@@ -33,13 +39,13 @@ I helped companies automate their processes, reduce processing time and manual e
 ### My studies 👨🏼‍🎓📚💡
 ---
 
-- Engineer's degree from Ecole Centrale Casablanca, 2023
+- Master's degree from Ecole Centrale Casablanca, 2020 - 2023
 
     ``Bac+5``
 
     `Artificial Inteligence and Data Science`
 
-- Two years of intensive courses in Mathematics and Physics 2020
+- Two years of intensive courses in Mathematics and Physics 2018 - 2020
 
     ``BAC+2``
 
@@ -48,6 +54,7 @@ I helped companies automate their processes, reduce processing time and manual e
 ### Projects I worked on 📊🛠️📈
 ---
 
+#### - AI Agents for automating ecommerce systems — product discovery and selection, Supplier selection, Marketing compains and product listings.
 #### - AI Agent for Invoces and VAT processing. 
 #### - End to End RAG application for customer support deployed on AWS.
 #### - End to End Machine Learning system for churn prediction ([GitHub](https://github.com/HAJJINIHamza/Telecommunication-b2c-post-paid-mobile-churn)) 
